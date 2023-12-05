@@ -1,0 +1,30 @@
+.ActionBtn {
+    -fx-background-color: transparent;
+}
+.ChatBox {
+    -fx-background-color: white;
+    -fx-background-radius: 30px;
+    -fx-border-radius: 30px;
+    -fx-border-width: 3px;
+    -fx-border-color: lightgrey;
+}
+.Main {
+    -fx-background-color: D2E0FB;
+}
+.CallBtn {
+    -fx-background-color: transparent;
+}
+.ChatBubble {
+    -fx-font-family: Calibri;
+    -fx-font-size: 20;
+    -fx-font-style: regular;
+}
+.ChatBubbleA {
+    -fx-background-color: DFFFD8;
+    -fx-background-radius: 30px 0px 30px 30px;
+}
+
+.ChatBubbleB {
+    -fx-background-color: F7C8E0;
+    -fx-background-radius: 0px 30px 30px 30px;
+}
